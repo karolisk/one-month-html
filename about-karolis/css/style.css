@@ -1,0 +1,32 @@
+body {
+  line-height: 1.5;
+  color: white;
+  font-family: 'Lato', sans-serif;
+  /* Full Page Background Receipe */
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background: url(../images/karolis.png);
+	}
+
+.container {
+  width: 500px;
+  /*margin: 0 auto; */
+  /*float: right; */
+  background-color: rgba(10,10,50,.2);
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+
+
+}
+
+h1 {
+	font-size: 80px;
+	margin-bottom: -40px;
+	font-family: sans-serif;
+}
+
+h2 {
+	font-size: 20px;
+}
